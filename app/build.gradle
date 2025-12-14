@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.sampleapp'
+    namespace 'com.orio.pranichealingapp'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.sampleapp"
+        applicationId "com.orio.pranichealingapp"
         minSdk 21
         targetSdk 34
         versionCode 1
